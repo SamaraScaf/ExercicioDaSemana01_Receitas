@@ -1,0 +1,2 @@
+# ExercicioDaSemana01_Receitas
+ExercicioDaSemana01_Receitas
